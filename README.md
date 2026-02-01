@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Odusdegreat
-- 👀 I’m interested in Coding, Playing sports, Cooking, Listening to music, Solving problems, Playing video games.
-- 🌱 I’m currently learning JavaScript, React.js, Angular.js.
-- 💞️ I’m looking to collaborate on projects that tap into my expertise in front-end development (HTML/CSS, Tailwind CSS, JavaScript, React.js, Next js, Typscript, Angular ) and leadership skills, where I can help create user-centric solutions while working closely with teams to drive both technical innovation and business success
-- 📫 How to reach me on Email: tobiodubote@gmail.com, Phone number: +2348183953978, Linkedin: https://www.linkedin.com/in/oluwatobi-odubote-345490276/, Instagram: https://www.instagram.com/odusthegreat/
-- ⚡ Fun fact: A fun fact about me is that I’m always ready to chat about just about anything—from coding and history to pop culture and obscure trivia—so if you’re ever in need of a random tidbit, I’ve got you covered!
+## 👋 Hi, I’m @Odusdegreat
 
-<!---
-Odusdegreat/Odusdegreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Software Engineer** building user-centric web and mobile applications with a strong front-end focus and solid backend experience.
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+
+### 📫 Connect
+- 📧 **Email:** tobiodubote@gmail.com  
+- 💼 **LinkedIn:** [Oluwatobi Odubote](https://www.linkedin.com/in/oluwatobi-odubote-345490276/)  
+- 📸 **Instagram:** [@odusthegreat](https://www.instagram.com/odusthegreat/)
+
+⚡ **Fun fact:** I enjoy breaking complex problems into simple, elegant solutions.
