@@ -32,6 +32,12 @@
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
 
+**Web3 / Blockchain**
+
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=ffffff)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=F7DF1E)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+
 **3D / Creative**
 
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=ffffff)
