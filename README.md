@@ -32,6 +32,10 @@
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
 
+**3D / Creative**
+
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=ffffff)
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
