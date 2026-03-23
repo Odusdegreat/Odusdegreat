@@ -1,52 +1,69 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Odusdegreat&color=blue)
+<div align="center">
 
-## 👋 Hi, I’m @Odusdegreat
+![Profile Views](https://komarev.com/ghpvc/?username=Odusdegreat&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
 
-I’m a **Software Engineer** building user-centric web and mobile applications with a strong front-end focus and solid backend experience.
+# Hey, I'm Oluwatobi 👋
+
+**Software Engineer** · Web & Mobile · Front-end focused, backend capable
+
+*Breaking complex problems into clean, scalable solutions.*
+
+[![Email](https://img.shields.io/badge/Email-tobiodubote%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tobiodubote@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi_Odubote-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/oluwatobi-odubote-345490276/)
+[![Instagram](https://img.shields.io/badge/Instagram-@odusthegreat-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/odusthegreat/)
+
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧠 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111111?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111111?logo=angular&logoColor=DD0031)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?logo=tailwindcss&logoColor=38B2AC)
+**Frontend**
 
-### 🧩 Mobile
-![React Native](https://img.shields.io/badge/React_Native-111111?logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-111111?logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-111111?logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-111111?logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-111111?logo=django&logoColor=092E20)
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44b78b)
 
 ---
 
 ## 📊 GitHub Stats
 
-| Most Used Languages | GitHub Stats |
-|--------------------|-------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odusdegreat&layout=compact&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Odusdegreat&show_icons=true&theme=tokyonight) |
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Odusdegreat&layout=compact&theme=tokyonight&hide_border=true)
+&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odusdegreat&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Odusdegreat&theme=tokyonight)
+<div align="center">
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Odusdegreat&theme=tokyonight&hide_border=true)
 
-## 📫 Connect
-
-- 📧 **Email:** tobiodubote@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/oluwatobi-odubote-345490276/  
-- 📸 **Instagram:** https://www.instagram.com/odusthegreat/  
+</div>
 
 ---
 
-⚡ **Fun fact:** I enjoy breaking complex problems into clean, scalable solutions.
+<div align="center">
+
+⚡ *I enjoy breaking complex problems into clean, scalable solutions.*
+
+</div>
